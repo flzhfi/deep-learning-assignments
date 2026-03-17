@@ -1,6 +1,3 @@
-# deep-learning-assignments
-Deep Learning study and assignments
-
 # Deep Learning Study
 
 딥러닝 공부 및 실습을 정리한 repository입니다.  
